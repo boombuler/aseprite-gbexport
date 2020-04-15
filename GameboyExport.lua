@@ -1,7 +1,7 @@
 local sprite = app.activeSprite
 
 
--- Check constrains
+-- Check constraints
 if sprite == nil then
   app.alert("No Sprite...")
   return
